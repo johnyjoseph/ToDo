@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    /* background-color: #17a2b8; */
+    /* background-image: url("unnamed\ \(1\).jpg ");
+    background-repeat: no-repeat; */
+   
+   
+  }
+  #login .container #login-row #login-column #login-box {
+    margin-top: 20px;
+    max-width: 600px;
+    height: 320px;
+    border: 1px solid rgba(0, 0, 255, 0.514);
+    /* background-color: black; */
+    /* background-image: url("unnamed\ \(1\).jpg ");
+    background-repeat: no-repeat; */
+   
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+  }
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+  }
